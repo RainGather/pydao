@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+**/cache/**/*
+__pycache__/
+**/*.pdf
+**/temp.txt
+**/ori_*
+
